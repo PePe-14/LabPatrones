@@ -1,0 +1,6 @@
+/home/felipe/Desktop/LaboratorioII/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/Inventario.java
+/home/felipe/Desktop/LaboratorioII/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/Libro.java
+/home/felipe/Desktop/LaboratorioII/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/ExcepcionLibroNoEncontrado.java
+/home/felipe/Desktop/LaboratorioII/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/ExcepcionLibroInvalido.java
+/home/felipe/Desktop/LaboratorioII/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/ExcepcionLibroExistente.java
+/home/felipe/Desktop/LaboratorioII/cl.ucn.felix.biblioteca.api/src/main/java/cl/ucn/felix/biblioteca/api/LibroMutable.java

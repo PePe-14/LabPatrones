@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1702233809476
+Bnd-LastModified: 1702233810311
 Build-Jdk-Spec: 17
 Bundle-Activator: cl.ucn.felix.biblioteca.inventario.activador.Inventari
  oActivador
@@ -12,5 +12,5 @@ Export-Package: cl.ucn.felix.biblioteca.api.impl;uses:="cl.ucn.felix.bib
  lioteca.api";version="1.0.0"
 Import-Package: cl.ucn.felix.biblioteca.api;version="[1.0,2)",org.osgi.f
  ramework;version="[1.8,2)"
-Private-Package: cl.ucn.felix.biblioteca.inventario.activador
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=11))"
 Tool: Bnd-6.3.1.202206071316

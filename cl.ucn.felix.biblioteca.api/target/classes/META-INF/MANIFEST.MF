@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1702233777804
+Bnd-LastModified: 1702233779086
 Build-Jdk-Spec: 17
 Bundle-ManifestVersion: 2
 Bundle-Name: cl.ucn.felix.biblioteca.api
@@ -7,4 +7,5 @@ Bundle-SymbolicName: cl.ucn.felix.biblioteca.api
 Bundle-Version: 1.0.0
 Created-By: Apache Maven Bundle Plugin 5.1.9
 Export-Package: cl.ucn.felix.biblioteca.api;version="1.0.0"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=11))"
 Tool: Bnd-6.3.1.202206071316
