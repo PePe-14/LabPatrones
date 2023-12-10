@@ -173,3 +173,4 @@ entregables de esta entrega son:
 Nota: El video debe estar alojado en el mismo sitio donde está alojado
 el código, en la raíz del proyecto. Las urls, deberán ser entregadas por
 CampusVirtual en el espacio
+# LabPatrones
