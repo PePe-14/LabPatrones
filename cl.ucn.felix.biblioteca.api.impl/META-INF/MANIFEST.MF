@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1702233809476
+Bnd-LastModified: 1702237474704
 Build-Jdk-Spec: 17
 Bundle-Activator: cl.ucn.felix.biblioteca.inventario.activador.Inventari
  oActivador

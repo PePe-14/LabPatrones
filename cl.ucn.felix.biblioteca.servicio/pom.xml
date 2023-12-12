@@ -49,7 +49,7 @@
 						<Import-Package>${import.packages}</Import-Package> <!-- defined in bundle.properties -->
 						<Export-Package>${export.packages}</Export-Package> <!-- define in bundle.properties -->
 						<Bundle-Activator>
-							cl.ucn.felix.biblioteca.servicio.impl.activador.ServicioImplActivador
+							 cl.ucn.felix.biblioteca.servicio.impl.activador.ServicioImplActivador
 						</Bundle-Activator>
 					</instructions>
 					<remoteOBR>repo-rel</remoteOBR>

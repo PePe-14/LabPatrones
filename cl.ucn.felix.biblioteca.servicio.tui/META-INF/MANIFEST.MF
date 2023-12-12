@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1702233894485
+Bnd-LastModified: 1702239389851
 Build-Jdk-Spec: 17
 Bundle-Activator: cl.ucn.felix.biblioteca.servicios.tui.activador.Invent
  arioLibroTuiActivador
